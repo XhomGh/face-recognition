@@ -1,0 +1,15 @@
+# 数据目录（不上传大文件）
+/data/
+/images/
+/models/
+
+# Python相关
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境文件
+.env
+venv/
