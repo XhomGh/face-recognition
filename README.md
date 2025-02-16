@@ -9,6 +9,8 @@ pip install -r requirements.txt
 ```
 ## 使用说明
 
+### 记得安装依赖，如若不然，项目无法启动！因为opencv与python版本严格对应。详见[opencv](https://pypi.tuna.tsinghua.edu.cn/simple/opencv-python/)
+
 ### 图片人脸识别
 1.init图片识别
 
