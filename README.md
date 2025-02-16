@@ -1,6 +1,6 @@
 # Face Recognition Project
 
-## 项目结构
+## 项目结构   
 /face_recognition/
 ├── docs/               # （可选）存放文档  
 ├── src/                # （可选）可重构为源码目录  
